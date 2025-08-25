@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: genztranslator
+Version: 0.1
+Summary: A library to translate Gen Z slang into plain English
+Author: Rohan S Sutar
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary
