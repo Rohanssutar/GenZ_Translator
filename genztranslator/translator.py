@@ -1,5 +1,5 @@
 import re
-from .slangs import slang_dict
+from slangs import slang_dict
 
 def translate(text: str) -> str:
     for slang in sorted(slang_dict, key=len, reverse=True):
